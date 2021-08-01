@@ -1,6 +1,6 @@
 # Visually guided sound source separation using cascaded opponent filter network
 
-[Paper](https://openaccess.thecvf.com/content/ACCV2020/papers/Zhu_Visually_Guided_Sound_Source_Separation_using_Cascaded_Opponent_Filter_Network_ACCV_2020_paper.pdf) | [project](https://ly-zhu.github.io/cof-net)
+[ACCV2020(**Oral**)](https://openaccess.thecvf.com/content/ACCV2020/papers/Zhu_Visually_Guided_Sound_Source_Separation_using_Cascaded_Opponent_Filter_Network_ACCV_2020_paper.pdf) | [project](https://ly-zhu.github.io/cof-net)
 
 
 This repository contains PyTorch implementation of "Visually guided sound source separation using cascaded opponent filter network". Authors: [Lingyu Zhu](https://ly-zhu.github.io) and [Esa Rahtu](http://esa.rahtu.fi). Tampere University, Finland.
